@@ -4,7 +4,7 @@ This is Arduino sample code for any display that uses the Neotec NT7108 controll
 These displays are a part of the graphics family and operate at 5V.
 
 ## Connection Guide
-```c++
+```
 //  ARD      | Port  | Display pin |  Function - 8080 Parallel   |
 //-----------+-------+-------------+-----------------------------+
 // 3.3V/5V   |       |             |  POWER 3.3V                 |
