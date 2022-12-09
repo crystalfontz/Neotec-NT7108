@@ -11,11 +11,11 @@ These displays are a part of the graphics family and operate at 5V.
 // GND       |       |             |  GROUND                     |
 //-----------+-------+-------------+-----------------------------+
 // D8        | PORTB |             |  Data/Instruction   (D/I)   |
-// D9        | PORTB |             |  Read/Write		 (R/W)   |
+// D9        | PORTB |             |  Read/Write		     (R/W)   |
 // D10       | PORTB |             |  Enable signal	       (E)   |
-// D11       | PORTB |             |  Column select 1	 (CS1)   |
-// D12       | PORTB |             |  Column select 2	 (CS2)   |
-// D13       | PORTB |             |  Reset			     (RES)   |
+// D11       | PORTB |             |  Column select 1	   (CS1)   |
+// D12       | PORTB |             |  Column select 2	   (CS2)   |
+// D13       | PORTB |             |  Reset			         (RES)   |
 //-----------+-------+-------------+-----------------------------+
 //Data Lines
 //-----------+-------+-------------+-----------------------------+
