@@ -11,11 +11,11 @@ These displays are a part of the graphics family and operate at 5V.
 // GND       |       |             |  GROUND                     |
 //-----------+-------+-------------+-----------------------------+
 // D8        | PORTB |             |  Data/Instruction   (D/I)   |
-// D9        | PORTB |             |  Read/Write		     (R/W)   |
-// D10       | PORTB |             |  Enable signal	     (E)     |
-// D11       | PORTB |             |  Column select 1	   (CS1)   |
-// D12       | PORTB |             |  Column select 2	   (CS2)   |
-// D13       | PORTB |             |  Reset			         (RES)   |
+// D9        | PORTB |             |  Read/Write		 (R/W)   |
+// D10       | PORTB |             |  Enable signal	       (E)   |
+// D11       | PORTB |             |  Column select 1	 (CS1)   |
+// D12       | PORTB |             |  Column select 2	 (CS2)   |
+// D13       | PORTB |             |  Reset			     (RES)   |
 //-----------+-------+-------------+-----------------------------+
 //Data Lines
 //-----------+-------+-------------+-----------------------------+
@@ -51,4 +51,4 @@ Crystalfontz Part Numbers:\
 [CFAG19264A-YYH-TN](https://www.crystalfontz.com/products/CFAG19264A-YYH-TN)\
 [CFAG19264D-TFH-VN](https://www.crystalfontz.com/products/CFAG19264D-TFH-VN)\
 [CFAG19264D-TMI-VN](https://www.crystalfontz.com/products/CFAG19264D-TMI-VN)\
-[CFAG19264D-YYH-VN](https://www.crystalfontz.com/products/CFAG19264D-YYH-VN)\
+[CFAG19264D-YYH-VN](https://www.crystalfontz.com/products/CFAG19264D-YYH-VN)
