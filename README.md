@@ -5,7 +5,7 @@ These displays are a part of the graphics family and operate at 5V.
 
 ## Connection Guide
 ```
-//  ARD      | Port  | Display pin |  Function - 8080 Parallel   |
+//  ARD      | Port  | Display pin |  Function - 6800 Parallel   |
 //-----------+-------+-------------+-----------------------------+
 // 3.3V/5V   |       |             |  POWER 3.3V                 |
 // GND       |       |             |  GROUND                     |
