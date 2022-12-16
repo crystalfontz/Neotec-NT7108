@@ -34,7 +34,7 @@
 //
 // For more information, please refer to <http://unlicense.org/>
 //==============================================================================
-// LCD parallel 8080 pins and control lines on Seeeduino:
+// LCD parallel 6800 pins and control lines on Seeeduino:
 // Seeduino    |  Port  | LCD
 // ------------+--------+-------------
 // #8/D8       |  PB0   | D/I (data/instruction)
